@@ -1,2 +1,3 @@
-# appium-avancado
-Curso de Appium Avançado. QAzando.
+Quer aprender mais?
+
+https://trilhaqa.qazando.com.br/
